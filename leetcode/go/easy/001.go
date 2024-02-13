@@ -1,4 +1,6 @@
-func twoSum(nums []int, target int) []int {
+package easy
+
+func TwoSum(nums []int, target int) []int {
     sum_map := make(map[int]int)
 
     for i, num := range nums {
