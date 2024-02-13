@@ -1,1 +1,1 @@
-# codewars
+# code puzzles
